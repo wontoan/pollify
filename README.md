@@ -97,11 +97,3 @@ You can find a complete step-by-step tutorial on how to create this app from the
 
 MIT License. [Click here for more information.](LICENSE.md)
 =======
-# pollify
-MEAN-stack poll/voting app
-
-# What this project is
-
-# How to use 
-
->>>>>>> ad8dbd7b2e9db2fbeb19365ad76911331ab5bad1
